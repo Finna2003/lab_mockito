@@ -1,0 +1,8 @@
+C:\Users\Инна\AppData\Local\JetBrains\IntelliJIdea2022.3\coverage\lab_tests$Tests.ic
+false
+false
+false
+true
+-exclude
+-excludeAnnotations
+.*Generated.*
